@@ -1,0 +1,10 @@
+The C++ Programming Language,Bjarne Stroustrup,Addison-Wesley,2013,9780321563842,0
+Effective C++,Scott Meyers,O'Reilly Media,2005,9780321334879,0
+Clean Code,Robert C. Martin,Prentice Hall,2008,9780132350884,0
+Design Patterns,Erich Gamma et al.,Addison-Wesley,1994,9780201633610,0
+The Pragmatic Programmer,Andrew Hunt,Addison-Wesley,1999,9780201616224,0
+Introduction to Algorithms,Cormen et al.,MIT Press,2009,9780262033848,0
+Head First Design Patterns,Eric Freeman,O'Reilly Media,2004,9780596007126,0
+C++ Primer,Stanley B. Lippman,Addison-Wesley,2012,9780321714114,0
+Modern Operating Systems,Andrew S. Tanenbaum,Pearson,2014,9780133591620,0
+Computer Networks,Andrew S. Tanenbaum,Pearson,2010,9780132126953,0
